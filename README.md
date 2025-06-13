@@ -6,7 +6,7 @@
 
 ⚙️ Various things I believe in, that I try to apply in project I do, and that I'm always happy to talk about:
 
-- Strong typing, and proper type-based modelling.
+- Strong typing, and proper type-based modelling are almost always a better answer than the alternative.
 - There are three level of scale in a technical project: human scale, velocity scale, and performance scale.
   I aim at navigating better which ones of those should be achieved first at any given moment.
 - There is a good first technical answer to a lot of problems in most cases. It usually isn't the easiest one.
