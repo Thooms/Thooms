@@ -1,16 +1,15 @@
-## Hi there 👋
+## hi there, I'm Paps 👋
 
-<!--
-**Thooms/Thooms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥖 I'm a software engineer, science, and technology enthusiast from 🇫🇷
 
-Here are some ideas to get you started:
+🔭 Former engineer at Criteo, Travelbees, and Zenly. Did all kind of backend, mobile, maths things, at various level of scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Various things I believe in, that I try to apply in project I do, and that I'm always happy to talk about:
+
+- Strong typing, and proper type-based modelling are almost always a better answer than the alternative.
+- There are three level of scale in a technical project: human scale, velocity scale, and performance scale.
+  I aim at navigating better which ones of those should be achieved first at any given moment.
+- There is a good first technical answer to a lot of problems in most cases. It usually isn't the easiest one.
+- Kindness towards people should be the default.
+
+📫 `tp [ at ] my domain`
