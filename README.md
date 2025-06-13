@@ -2,7 +2,7 @@
 
 🥖 I'm a software engineer, science, and technology enthusiast from 🇫🇷
 
-🔭 Former engineer at Criteo, Travelbees, and Zenly. Did all kind of backend, mobile, maths things, at various level of scale.
+🔭 Former engineer at Criteo, Travelbees, Zenly, and Photoroom. Did all kind of backend, mobile, maths things, at various level of scale.
 
 ⚙️ Various things I believe in, that I try to apply in project I do, and that I'm always happy to talk about:
 
